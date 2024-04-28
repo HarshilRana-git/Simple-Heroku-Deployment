@@ -13,7 +13,7 @@ To get started with this project, follow these steps:
 
 ## Dependencies
 
-- [Express.js](https://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js.
+- [Express.js](https://expressjs.com/): Fast, minimalist web framework for Node.js.
 - [cors](https://www.npmjs.com/package/cors): Express middleware for enabling CORS (Cross-Origin Resource Sharing).
 - [Node.js](https://nodejs.org/): JavaScript runtime built on Chrome's V8 JavaScript engine.
 
